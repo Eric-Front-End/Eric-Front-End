@@ -77,6 +77,8 @@
   <br />
 </p>
 
+![GitHub Stats](https://streak-stats.demolab.com?user=Eric-Front-End&theme=radical&hide_border=true)
+
 <br />
 <h2> Proyectos Principales </h2>
 
