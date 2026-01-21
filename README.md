@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eric-Front-End" alt="shwetangStats" />  
+    <img src="https://streak-stats.demolab.com?user=Eric-Front-End&theme=radical&hide_border=true" alt="Eric-Front-End's GitHub Stats" />
   <br />
 </p>
 
