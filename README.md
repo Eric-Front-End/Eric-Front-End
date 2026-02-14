@@ -64,6 +64,7 @@
 
 <h2> 📈 My Github stats </h2>
 <br />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Aboreto&preferLogin=false">    <img  alt="Eric-Front-End's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Eric-Front-End?cardType=github&theme=github-dark&fontFamily=Aboreto&preferLogin=false" />  </a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eric-Front-End&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="shwetangStats" />  
@@ -77,7 +78,7 @@
   <br />
 </p>
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Eric-Front-End&theme=radical&hide_border=true)
+
 
 <br />
 <h2> Proyectos Principales </h2>
